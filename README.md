@@ -151,25 +151,6 @@ data/
 public/
 ```
 
----
-
-## 📸 Screenshots
-
-### Landing Page
-
-(Add Screenshot)
-
-### Citizen Dashboard
-
-(Add Screenshot)
-
-### Official Dashboard
-
-(Add Screenshot)
-
-### Geo Intelligence Map
-
-(Add Screenshot)
 
 ---
 
